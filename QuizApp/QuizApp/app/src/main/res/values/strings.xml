@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="truth">true</string>
+    <string name="lie">false</string>
+    <string name="my_text_question">How many rats can you get stat?</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\s wrong</string>
+    <string name="textQ">Are you alive?</string>
+    <string name="textQ1">Are you hungry?</string>
+    <string name="textQ2">Are you tired?</string>
+    <string name="textQ3">Are you lonely?</string>
+    <string name="textQ4">Are you upset?</string>
+    <string name="next_button">Next Button</string>
+
+</resources>
